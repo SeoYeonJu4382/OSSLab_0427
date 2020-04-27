@@ -1,3 +1,12 @@
+<<<<<<< seo0427
+hello! 
+
+this is youngjae kim!
+
+nice to meet you!
+*completed add
+=======
 hello 
 my name is ###
 i am  studing oss
+>>>>>>> master
